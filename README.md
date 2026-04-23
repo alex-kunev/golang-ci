@@ -1,5 +1,5 @@
 # 01_04 Set Up CI for Go
-
+-
 Starter workflows for Go projects are compact, with just a few steps to check out code, set up Go for a specific version, and then run commonly used go commands to build the project and run tests.
 
 But you can tune up the suggested workflow by customizing setup steps and adding additional CI capabilities.
