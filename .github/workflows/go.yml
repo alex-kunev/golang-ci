@@ -29,3 +29,6 @@ jobs:
 
     - name: Test
       run: go test -v ./...
+
+    - name: First interaction
+      uses: actions/first-interaction@v1.3.0
