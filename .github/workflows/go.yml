@@ -29,3 +29,6 @@ jobs:
 
     - name: Test
       run: go test -v ./...
+
+    - name: Revive Action
+      uses: morphy2k/revive-action@v2.7.8
